@@ -4,7 +4,7 @@
 #include "a2d.h"
 #include "d2a.h"
 
-//state definitions
+//state definitions //
 #define RESET        0
 #define IDLE         1
 #define WAIT_TRIGGER 2
